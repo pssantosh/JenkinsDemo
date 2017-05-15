@@ -11,6 +11,7 @@ namespace JenkinsDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins");
+            Console.WriteLine("A new venture into jenkins automation")
         }
     }
 }
